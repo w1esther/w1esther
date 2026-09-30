@@ -30,8 +30,13 @@
 ###
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=w1esther.w1esther&left_color=pink&right_color=pink"  />
-
+<br>
+<br>
 <div>
-[![Top Linguagens](https://vercel.app)](https://github.com/anuraghazra/github-readme-stats)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/w1esther?theme=dark">
+  <img alt="Most Used Languages'" src="https://github-used-languages.vercel.app/w1esther">
+</picture>
+
 </div>
 ###
