@@ -31,4 +31,7 @@
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=w1esther.w1esther&left_color=pink&right_color=pink"  />
 
+<div>
+[![Top Linguagens](https://vercel.app)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 ###
