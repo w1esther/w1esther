@@ -33,10 +33,6 @@
 <br>
 <br>
 <div>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/w1esther?theme=dark">
-  <img alt="Most Used Languages'" src="https://github-used-languages.vercel.app/w1esther">
-</picture>
 
 </div>
 ###
